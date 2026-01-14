@@ -9,7 +9,6 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <h1>HI</h1>
 
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         
