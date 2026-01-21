@@ -97,7 +97,7 @@
               class="input-field"
               placeholder="מייל"
               name="username"
-              id="username"
+              id="mail"
               required>
       </td>
       <td>מייל</td>
